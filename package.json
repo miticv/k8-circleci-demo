@@ -1,7 +1,7 @@
 {
-  "name": "basic-nodejs-circleci",
+  "name": "k8-circleci-demo",
   "version": "1.0.0",
-  "description": "Tutorial guiding how to deploy a simple nodejs application to AKS using Circle CI",
+  "description": "Deploy nodejs application to AKS using Circle CI",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -11,7 +11,7 @@
     "aks",
     "node"
   ],
-  "author": "Avik Kundu",
+  "author": "Vladimir Mitic",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.17.2",
@@ -25,6 +25,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Lucifergene/basic-nodejs-circleci.git"
+    "url": "git@github.com:miticv/k8-circleci-demo.git"
   }
 }

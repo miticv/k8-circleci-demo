@@ -44,4 +44,4 @@ spec:
         - containerPort: 1337
           name: http
       nodeSelector:
-        beta.kubernetes.io/os: linux
+        kubernetes.io/os: linux
