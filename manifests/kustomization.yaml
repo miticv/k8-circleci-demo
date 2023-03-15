@@ -7,5 +7,5 @@ resources:
 namespace: nodejs
 images:
 - name: nodejs-aks-app
-  newName: yemiwebby/nodejs-aks-app
-  newTag: 6d329ca093f6a759a73d043ee1f34738016f90c0
+  newName: miticv/nodejs-aks-app
+  newTag: 7120aac9ad15424131f0632047c7149392b97a44
