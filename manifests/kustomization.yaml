@@ -8,4 +8,4 @@ namespace: nodejs
 images:
 - name: nodejs-aks-app
   newName: miticv/nodejs-aks-app
-  newTag: 7120aac9ad15424131f0632047c7149392b97a44
+  newTag: 30c4ccba1cbcefc8cc66b863c1ec62cd76fddfde
