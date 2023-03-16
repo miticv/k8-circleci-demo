@@ -38,7 +38,7 @@ spec:
         app: nodejs
     spec:
       containers:
-      - image: miticv/nodejs-aks-app:36724b2f4dded341198ea5d31ff71dbfca831268
+      - image: miticv/nodejs-aks-app:1c0f7a962c4517152805a4454deca8378bcc2db8
         name: nodejs-aks-app
         ports:
         - containerPort: 1337
